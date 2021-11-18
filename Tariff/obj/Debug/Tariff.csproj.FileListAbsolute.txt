@@ -1,0 +1,11 @@
+D:\clessons\Tariff\Tariff\bin\Debug\Tariff.exe.config
+D:\clessons\Tariff\Tariff\bin\Debug\Tariff.exe
+D:\clessons\Tariff\Tariff\bin\Debug\Tariff.pdb
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.csprojAssemblyReference.cache
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.FormTariffAssistant.resources
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.Properties.Resources.resources
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.csproj.GenerateResource.cache
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.csproj.CoreCompileInputs.cache
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.exe
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.pdb
+D:\clessons\Tariff\Tariff\obj\Debug\Tariff.AdminForm.resources
